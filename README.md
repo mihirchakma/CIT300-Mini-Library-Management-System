@@ -1,4 +1,4 @@
-# CIT300-Mini-Library-Management-System Project
+# CIT300-Mini-Library-Management-System
 
  - **Module:** CIT300-Data Structure and Algorithms
  - **Student ID:** 22UG3-0235
