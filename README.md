@@ -5,3 +5,7 @@
 - **Degree:** Bachelor of Applied Information Technology
 - **Faculty:** Computing and IT
 - **University:** Sri Lanka Technology Campus (SLTC)
+
+### System Requirement:
+
+- [IntelliJ IDEA - JetBrains](https://www.jetbrains.com/idea/)
