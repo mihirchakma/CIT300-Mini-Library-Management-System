@@ -6,6 +6,6 @@
 - **Faculty:** Computing and IT
 - **University:** Sri Lanka Technology Campus (SLTC)
 
-### System Requirement:
+### Software Requirement:
 
 - [IntelliJ IDEA - JetBrains](https://www.jetbrains.com/idea/)
