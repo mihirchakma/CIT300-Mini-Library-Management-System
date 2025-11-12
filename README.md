@@ -10,8 +10,7 @@
 ---
 
 ## 📖 Overview
-This project is a **Mini Library Management System** developed as part of the **CIT300 – Data Structures and Algorithms** course.  
-It demonstrates how fundamental data structures can be applied to solve real-world problems such as managing books, handling borrow requests, processing returns, and tracking user history.
+This project is a **Mini Library Management System** developed as part of the **CIT300 – Data Structures and Algorithms** course. It demonstrates how fundamental data structures can be applied to solve real-world problems such as managing books, handling borrow requests, processing returns, and tracking user history.
 
 The system is implemented in **Java** and showcases the following data structures:
 - **Binary Search Tree (BST)** → Book Inventory
