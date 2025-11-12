@@ -1,4 +1,4 @@
-# 📚 Mini Library Management System Using Data Structures
+# 📚 Mini Library Management System
 
 - **Student ID:** 22UG3-0235
 - **Assessment:** Mid-Term Assignment
