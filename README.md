@@ -1,11 +1,17 @@
 # CIT300-Mini-Library-Management-System
 
- - **Module:** CIT300-Data Structure and Algorithms
- - **Student ID:** 22UG3-0235
-- **Degree:** Bachelor of Applied Information Technology
-- **Faculty:** Computing and IT
+- **Student ID:** 22UG3-0235
+- **Assessment:** Mid-Term Assignment
+- **Module:** CIT300 - Data Structures and Algorithms
+- **Degree program:** Bachelor of Applied Information Technology (BAIT)
+- **Faculty:** Faculty of Computing and IT
 - **University:** Sri Lanka Technology Campus (SLTC)
+
+---
 
 ### Software Requirement:
 
+- Git
 - [IntelliJ IDEA - JetBrains](https://www.jetbrains.com/idea/)
+
+---
